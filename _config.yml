@@ -1,4 +1,4 @@
-title: 해파리
+title: 멈추기위해 움직이는 물몽
 subtitle: since 2023.04.05 ~ 
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -25,12 +25,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: 해파리
+author: 물몽
 author_bio: --23년 4월 5일 블로그 시작--
 author_email: "swh634@naver.com"
 author_location: Korea
 author_website_url: None
-typewrite-text: 공백
+typewrite-text: 끊임없이 움직이기에 비로소 멈출수 있다.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
