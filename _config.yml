@@ -27,10 +27,10 @@ urls:
 author_logo: profile.png
 author: 해파리
 author_bio: --23년 4월 5일 블로그 시작--
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_email: "swh634@naver.com"
+author_location: Korea
+author_website_url: None
+typewrite-text: -----------------------------------------------------------------------------------------------------------------
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
